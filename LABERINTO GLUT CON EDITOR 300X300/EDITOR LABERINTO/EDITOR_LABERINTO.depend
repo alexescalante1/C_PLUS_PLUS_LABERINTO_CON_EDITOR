@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1571520624 source:c:\users\gaming b8 gtx1060\desktop\editor laberinto\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+
+1571517171 c:\users\gaming b8 gtx1060\desktop\editor laberinto\resource.h
+
+1571521229 source:c:\users\gaming b8 gtx1060\desktop\editor laberinto\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1571520624 source:c:\users\gaming b8 gtx1060\desktop\laberinto glut con editor 300x300\editor laberinto\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+
+1571517171 c:\users\gaming b8 gtx1060\desktop\laberinto glut con editor 300x300\editor laberinto\resource.h
+
+1571521229 source:c:\users\gaming b8 gtx1060\desktop\laberinto glut con editor 300x300\editor laberinto\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

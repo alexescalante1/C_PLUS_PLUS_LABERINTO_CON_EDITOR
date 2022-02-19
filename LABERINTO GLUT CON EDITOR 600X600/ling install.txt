@@ -1,0 +1,2 @@
+https://devblogs.microsoft.com/cppblog/directx-game-development-with-c-in-visual-studio/
+https://www.youtube.com/watch?v=Il6jySpR3VI&t=1152s
